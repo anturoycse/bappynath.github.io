@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Youth &#8211; practiceblog</title>
+	<atom:link href="/index.php/category/youth/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A project by Antu Roy</description>
+	<lastBuildDate>Sat, 10 Oct 2020 19:30:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-download-32x32.png</url>
+	<title>Youth &#8211; practiceblog</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Impact of coronavirus on higher education in India and Bangladesh</title>
+		<link>/index.php/2020/10/10/impact-of-coronavirus-on-higher-education-in-india-and-bangladesh/</link>
+					<comments>/index.php/2020/10/10/impact-of-coronavirus-on-higher-education-in-india-and-bangladesh/#respond</comments>
+		
+		<dc:creator><![CDATA[user_blog]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2020 19:30:35 +0000</pubDate>
+				<category><![CDATA[Youth]]></category>
+		<guid isPermaLink="false">/?p=18</guid>
+
+					<description><![CDATA[A three-day virtual international webinar, 'Living with Covid-19: Impact on Higher Education in India and Bangladesh,' began on Saturday.
+
+The webinar is jointly organised by Jagannath University's Institute of Education and Research (IER), Council for Teacher Education Foundation (CTEF) of Bangladesh and Council of Educational Administration and Management (CEAM) of India. Advertisement]]></description>
+										<content:encoded><![CDATA[
+<p>A three-day virtual international webinar, &#8216;Living with Covid-19: Impact on Higher Education in India and Bangladesh,&#8217; began on Saturday.<br><br>The webinar is jointly organised by Jagannath University&#8217;s Institute of Education and Research (IER), Council for Teacher Education Foundation (CTEF) of Bangladesh and Council of Educational Administration and Management (CEAM) of India. Advertisement</p>
+
+
+
+<p>The webinar will run on Saturday, Sunday and Monday from 9:30 am Bangladesh time, 9:00 am India time to 3:00 pm Bangladesh time and 2:30 pm India time using the Zoom video conferencing app. About 50 research papers will be presented during the three-day webinar.<br><br>Professor Monira Jahan, General Convener of the Organising Committee of the Webinar and Director of the Institute of Education and Research, Jagannath University, told Prothom Alo that the webinar explained how higher education in India and Bangladesh, like the higher education system in the developed world, can be kept afloat in times of emergency. And interactive experiences on various issues of crisis were discussed at the webinar.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/10/10/impact-of-coronavirus-on-higher-education-in-india-and-bangladesh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
